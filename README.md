@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 📝 I regularly write articles on [ngaih.tech](ngaih.tech)
+- 📝 I regularly write articles on [ngaihte.com](ngaihte.com)
 
 - 📫 How to reach me **ngaihte@protonmail.com**
 
